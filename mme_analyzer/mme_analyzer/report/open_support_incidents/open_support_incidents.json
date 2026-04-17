@@ -1,0 +1,10 @@
+{
+  "doctype": "Report",
+  "name": "Open Support Incidents",
+  "module": "MME Analyzer",
+  "report_name": "Open Support Incidents",
+  "ref_doctype": "Support Incident",
+  "report_type": "Query Report",
+  "is_standard": "Yes",
+  "json": "{}"
+}
