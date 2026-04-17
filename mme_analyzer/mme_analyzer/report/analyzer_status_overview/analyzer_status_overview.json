@@ -1,0 +1,10 @@
+{
+  "doctype": "Report",
+  "name": "Analyzer Status Overview",
+  "module": "MME Analyzer",
+  "report_name": "Analyzer Status Overview",
+  "ref_doctype": "Analyzer",
+  "report_type": "Query Report",
+  "is_standard": "Yes",
+  "json": "{}"
+}
